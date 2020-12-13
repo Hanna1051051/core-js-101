@@ -657,4 +657,3 @@ module.exports = {
   getElementByIndexes,
   swapHeadAndTail,
 };
-
